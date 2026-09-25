@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054462077721",
+    "project_id": "school-project-c69e6",
+    "storage_bucket": "school-project-c69e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054462077721:android:34dbe1413fabf50d99f388",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmFrl1cxH6f4YXe0RZZ7GMOZzUKPdDeRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
